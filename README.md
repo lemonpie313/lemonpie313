@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=ffeea8&height=200&section=header&text=lemonpie&desc=welcome%20to%20my%20github&fontSize=70&fontColor=ffffff&fontAlignY=45&&descSize=30&&descAlign=50&descAlignY=70&animation=twinkling">
 </div>
-
+<br>
 <h3 align="center">🍋 SNS 🍋</h3>
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fbluawr%2F">
@@ -44,6 +44,5 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/-Vscode-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/-DBeaver-%23382923?style=flat-square&logo=dbeaver&logoColor=white">
 </div>
-
 
 
